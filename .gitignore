@@ -1,0 +1,17 @@
+###  Django ###
+.idea/
+__pycache__/
+/__pycache__/
+migrations/
+*.xml
+*.pyc
+*.pot
+.env
+.cache
+venv/
+db.sqlite3
+
+### Python ###
+## Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
